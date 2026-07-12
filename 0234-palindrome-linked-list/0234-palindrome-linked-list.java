@@ -49,7 +49,7 @@ class Solution {
             curr.next = prev;
             prev = curr;
             curr = next;
-            if(next != null){
+            if(curr != null){
                 next = curr.next;
             }
         }
