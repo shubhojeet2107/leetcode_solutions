@@ -9,54 +9,46 @@
  * }
  */
 class Solution {
-    public ListNode sortList(ListNode head){
-        if(head == null || head.next == null){
-            return head;
+    public ListNode sortList(ListNode head) {
+        if(head == null || head.next == null) return head;
+        ListNode slow = head;
+        ListNode fast = head;
+        ListNode prev = null;
+
+        while(fast != null && fast.next != null){
+            prev = slow;
+            slow = slow.next;
+            fast = fast.next.next;
         }
 
-        ListNode mid = getMid(head);
+        prev.next = null;
         ListNode left = sortList(head);
-        ListNode right = sortList(mid);
+        ListNode right = sortList(slow);
 
         return merge(left, right);
     }
 
-    private ListNode merge(ListNode left, ListNode right) {
-        ListNode dummyhead = new ListNode(-1);
-        ListNode current = dummyhead;
+    public ListNode merge(ListNode left, ListNode right){
+        ListNode dummy = new ListNode(-1);
+        ListNode curr = dummy;
 
         while(left != null && right != null){
-            if(left.val < right.val){
-                current.next = left;
-                left = left.next;
-            }else{
-                current.next = right;
+            if(left.val > right.val){
+                curr.next = right;
                 right = right.next;
+            }else{
+                curr.next = left;
+                left = left.next;
             }
-            current = current.next;
+            curr = curr.next;
         }
 
         if(left != null){
-            current.next = left;
+            curr.next = left;
         }else{
-            current.next = right;
+            curr.next = right;
         }
-        
-        return dummyhead.next;
-    }
 
-    private ListNode getMid(ListNode head){
-        ListNode midprev = null;
-        while(head != null && head.next != null){
-            if(midprev == null){
-                midprev = head;
-            }else{
-                midprev = midprev.next;
-            }
-            head = head.next.next;
-        }
-        ListNode mid = midprev.next;
-        midprev.next = null;
-        return mid;
+        return dummy.next;
     }
 }
