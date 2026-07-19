@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2390-removing-stars-from-a-string](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
