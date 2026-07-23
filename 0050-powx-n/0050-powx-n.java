@@ -1,21 +1,21 @@
 class Solution {
     public double myPow(double x, int n) {
-        long power = n;
-
-        if (power < 0) {
-            return 1 / power(x, -power);
+        if(n < 0){
+            return 1 / (recursive(x, -n));
         }
 
-        return power(x, power);
+        return recursive(x, n);
     }
 
-    public double power(double x, long n) {
-        if (n == 0) return 1;
-        double half = power(x, n / 2);
+    public double recursive(double x, int n){
+        if(n == 0) return 1;
 
-        if (n % 2 == 0) {
+        double half = recursive(x, n/2);
+
+        if(n % 2 == 0) {
             return half * half;
-        } else {
+        }
+        else{
             return half * half * x;
         }
     }
