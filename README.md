@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -174,4 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
