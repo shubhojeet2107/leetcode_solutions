@@ -1,24 +1,27 @@
 class Solution {
     public int[] separateDigits(int[] nums) {
-        int i = 0;
+        if(nums.length == 1) return nums;
+        
         ArrayList<Integer> list = new ArrayList<>();
+        int j = 0;
 
-        while (i < nums.length) {
-            String str = Integer.toString(nums[i]);
-            int j = 0;
-            while (j < str.length()) {
-                char ch = str.charAt(j);
-                list.add(ch - '0');
-                j++;
-            }
-            i++;
+        while (j < nums.length) {
+            recursive(list, nums[j]);
+            j++;
         }
 
-        int[] arr = new int[list.size()];
-        for (int k = 0; k < list.size(); k++) {
-            arr[k] = list.get(k);
+        int[] ans = new int[list.size()];
+        for (int i = 0; i < list.size(); i++) {
+            ans[i] = list.get(i);
         }
 
-        return arr;
+        return ans;
+    }
+
+    public void recursive(ArrayList<Integer> list, int num) {
+        if (num == 0)
+            return;
+        recursive(list, num / 10);
+        list.add(num % 10);
     }
 }
