@@ -3,36 +3,25 @@ class Solution {
         int size1 = s1.length();
         int size2 = s2.length();
 
-        if(size1 > size2) return false;
+        if(size2 < size1) return false;
 
-        HashMap<Character, Integer> map = new HashMap<>();
+        int[] arr1 = new int[26];
+        int[] arr2 = new int[26];
+
         for(int i=0; i<size1; i++){
-            map.put(s1.charAt(i), map.getOrDefault(s1.charAt(i), 0) + 1);
+            arr1[s1.charAt(i) - 'a']++;
+            arr2[s2.charAt(i) - 'a']++;
         }
 
-        int left=0;
-        for(int right=size1-1; right<size2; right++){
-            HashMap<Character, Integer> tempMap = new HashMap<>(map);
+        if(Arrays.equals(arr1, arr2)) return true;
 
-            for (int i = left; i <= right; i++) {
-                char ch = s2.charAt(i);
+        for(int i=size1; i<size2; i++){
+            arr2[s2.charAt(i) - 'a']++;
+            arr2[s2.charAt(i-size1) - 'a']--;
 
-                if(!tempMap.containsKey(ch)) {
-                    break;
-                }
-
-                tempMap.put(ch, tempMap.get(ch) - 1);
-
-                if(tempMap.get(ch) == 0) {
-                    tempMap.remove(ch);
-                }
-            }
-            if(tempMap.isEmpty()) {
-                return true;
-            }
-
-            left++;
+            if(Arrays.equals(arr1, arr2)) return true;
         }
+
         return false;
     }
 }
