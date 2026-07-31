@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0141-linked-list-cycle) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0881-boats-to-save-people) |
 | [1903-largest-odd-number-in-string](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0053-maximum-subarray) |
