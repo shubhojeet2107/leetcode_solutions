@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0050-powx-n) |
 | [0372-super-pow](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0372-super-pow) |
+| [0486-predict-the-winner](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0633-sum-of-square-numbers) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [1922-count-good-numbers](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1922-count-good-numbers) |
 ## Hash Table
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0169-majority-element) |
+| [0486-predict-the-winner](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
+| [0486-predict-the-winner](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0486-predict-the-winner) |
 ## Simulation
 |  |
 | ------- |
@@ -256,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
