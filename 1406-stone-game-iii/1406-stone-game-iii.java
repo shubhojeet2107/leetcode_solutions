@@ -12,21 +12,17 @@ class Solution {
     }
 
     public int recursive(int[] nums, int index){
-        if(index >= nums.length){
-            return 0;
-        }
+        if(index >= nums.length) return 0;
 
         if(dp[index] != -1) return dp[index];
 
         int ans = Integer.MIN_VALUE;
         int take = 0;
-
-        for(int i = 1; i <= 3 && (index + i - 1) < nums.length; i++){
+        for(int i=1; i<=3 && (index + i - 1) < nums.length; i++){ 
             take += nums[index + i - 1];
-
             ans = Math.max(ans, take - recursive(nums, index+i));
         }
 
-        return dp[index] = ans;
+        return dp[index] = ans; 
     }
 }
