@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3731-find-missing-elements) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2390-removing-stars-from-a-string](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
