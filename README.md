@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0881-boats-to-save-people) |
 | [1903-largest-odd-number-in-string](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
+| [1936-add-minimum-number-of-rungs](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1936-add-minimum-number-of-rungs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Array
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1929-concatenation-of-array) |
+| [1936-add-minimum-number-of-rungs](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1936-add-minimum-number-of-rungs) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2553-separate-the-digits-in-an-array](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
