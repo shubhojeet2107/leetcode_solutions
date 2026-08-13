@@ -317,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1510-stone-game-iv) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
