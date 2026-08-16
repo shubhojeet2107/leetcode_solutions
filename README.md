@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1510-stone-game-iv) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1510-stone-game-iv) |
 ## Simulation
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1510-stone-game-iv) |
 ## Minimax
@@ -362,8 +365,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1025-divisor-game) |
 ## Impartial Game
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
