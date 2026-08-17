@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2396-strictly-palindromic-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3227-vowels-game-in-a-string](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3227-vowels-game-in-a-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3227-vowels-game-in-a-string](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3227-vowels-game-in-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
 |  |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1510-stone-game-iv) |
+| [3227-vowels-game-in-a-string](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3227-vowels-game-in-a-string) |
 ## Minimax
 |  |
 | ------- |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1025-divisor-game) |
 | [2396-strictly-palindromic-number](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2396-strictly-palindromic-number) |
+| [3227-vowels-game-in-a-string](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3227-vowels-game-in-a-string) |
 ## Impartial Game
 |  |
 | ------- |
