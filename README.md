@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2396-strictly-palindromic-number](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2396-strictly-palindromic-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0881-boats-to-save-people) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2396-strictly-palindromic-number](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2396-strictly-palindromic-number) |
 ## Recursion
 |  |
 | ------- |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1025-divisor-game) |
+| [2396-strictly-palindromic-number](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2396-strictly-palindromic-number) |
 ## Impartial Game
 |  |
 | ------- |
