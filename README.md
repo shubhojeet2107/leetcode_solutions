@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0278-first-bad-version) |
 | [0633-sum-of-square-numbers](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0633-sum-of-square-numbers) |
 ## Enumeration
 |  |
@@ -390,4 +391,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1227-airplane-seat-assignment-probability](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1227-airplane-seat-assignment-probability) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
