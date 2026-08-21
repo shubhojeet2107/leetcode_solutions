@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0567-permutation-in-string](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0633-sum-of-square-numbers) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0169-majority-element) |
 | [0228-summary-ranges](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0228-summary-ranges) |
 | [0486-predict-the-winner](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0486-predict-the-winner) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0278-first-bad-version) |
 | [0633-sum-of-square-numbers](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0633-sum-of-square-numbers) |
 ## Enumeration
