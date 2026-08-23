@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
+| [0224-basic-calculator](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0292-nim-game) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [1922-count-good-numbers](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1922-count-good-numbers) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0567-permutation-in-string) |
