@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1510-stone-game-iv) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1872-stone-game-viii](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1927-sum-game) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1872-stone-game-viii](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1872-stone-game-viii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [1936-add-minimum-number-of-rungs](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1936-add-minimum-number-of-rungs) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-airplane-seat-assignment-probability](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1227-airplane-seat-assignment-probability) |
 | [1406-stone-game-iii](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1872-stone-game-viii) |
 ## Simulation
 |  |
 | ------- |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1872-stone-game-viii](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1872-stone-game-viii) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Design
 |  |
@@ -369,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1927-sum-game) |
 | [3227-vowels-game-in-a-string](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3227-vowels-game-in-a-string) |
 ## Minimax
@@ -376,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
@@ -389,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1872-stone-game-viii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
