@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0567-permutation-in-string) |
+| [0771-jewels-and-stones](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
+| [0771-jewels-and-stones](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
