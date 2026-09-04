@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0867-transpose-matrix) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0278-first-bad-version) |
+| [0540-single-element-in-a-sorted-array](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0633-sum-of-square-numbers) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Enumeration
