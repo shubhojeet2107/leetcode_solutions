@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2104-sum-of-subarray-ranges](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2104-sum-of-subarray-ranges) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0881-boats-to-save-people](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0881-boats-to-save-people) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1903-largest-odd-number-in-string](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1927-sum-game) |
 | [1936-add-minimum-number-of-rungs](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1936-add-minimum-number-of-rungs) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1872-stone-game-viii](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1872-stone-game-viii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-airplane-seat-assignment-probability](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1227-airplane-seat-assignment-probability) |
 | [1406-stone-game-iii](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1510-stone-game-iv) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1872-stone-game-viii](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1872-stone-game-viii) |
 | [3638-maximum-balanced-shipments](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3638-maximum-balanced-shipments) |
 ## Simulation
@@ -411,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1019-next-greater-node-in-linked-list](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2104-sum-of-subarray-ranges](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2487-remove-nodes-from-linked-list](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2487-remove-nodes-from-linked-list) |
