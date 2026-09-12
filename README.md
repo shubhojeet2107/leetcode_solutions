@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [1922-count-good-numbers](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1922-count-good-numbers) |
+| [2094-finding-3-digit-even-numbers](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2487-remove-nodes-from-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [2094-finding-3-digit-even-numbers](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0769-max-chunks-to-make-sorted) |
 | [0881-boats-to-save-people](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0881-boats-to-save-people) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-number-of-visible-people-in-a-queue](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2104-sum-of-subarray-ranges](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2553-separate-the-digits-in-an-array](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -447,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
