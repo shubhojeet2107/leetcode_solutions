@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0118-pascals-triangle](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
