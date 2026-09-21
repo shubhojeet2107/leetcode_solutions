@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3227-vowels-game-in-a-string](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3227-vowels-game-in-a-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3524-find-x-value-of-array-i](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3638-maximum-balanced-shipments](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3638-maximum-balanced-shipments) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3731-find-missing-elements) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1510-stone-game-iv) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1872-stone-game-viii](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1872-stone-game-viii) |
+| [3524-find-x-value-of-array-i](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3638-maximum-balanced-shipments](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3638-maximum-balanced-shipments) |
 ## Simulation
 |  |
