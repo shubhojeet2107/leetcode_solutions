@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-vowels-game-in-a-string](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3227-vowels-game-in-a-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3524-find-x-value-of-array-i](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3638-maximum-balanced-shipments](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3638-maximum-balanced-shipments) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3731-find-missing-elements) |
@@ -578,4 +580,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
