@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2094-finding-3-digit-even-numbers) |
 | [2104-sum-of-subarray-ranges](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2553-separate-the-digits-in-an-array](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1510-stone-game-iv) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1872-stone-game-viii](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1872-stone-game-viii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3638-maximum-balanced-shipments](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3638-maximum-balanced-shipments) |
 ## Simulation
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Prefix Sum
 |  |
@@ -576,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
