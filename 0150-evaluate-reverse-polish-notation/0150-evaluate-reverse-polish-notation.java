@@ -3,7 +3,7 @@ class Solution {
         Stack<Integer> stack = new Stack<>();
 
         for(int i=0; i<tokens.length; i++){
-            if(tokens[i].equals("+") || tokens[i].equals("-") || tokens[i].equals("*") || tokens[i].equals("/")){
+            if(tokens[i].equals("+") || tokens[i].equals("-")|| tokens[i].equals("*") || tokens[i].equals("/")){
                 int b = stack.pop();
                 int a = stack.pop();
 
@@ -12,6 +12,7 @@ class Solution {
                 else if(tokens[i].equals("*")) stack.push(a*b);
                 else if(tokens[i].equals("/")) stack.push(a/b);
             }
+
             else stack.push(Integer.parseInt(tokens[i]));
         }
 
