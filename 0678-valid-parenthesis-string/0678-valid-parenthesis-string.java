@@ -8,8 +8,7 @@ class Solution {
 
             if(ch == '(') open.push(i);
             else if(ch == '*') star.push(i);
-            else 
-            { //(ch == ')')
+            else {
                 if(!open.isEmpty()) open.pop();
                 else if(!star.isEmpty()) star.pop();
                 else return false;
