@@ -14,7 +14,7 @@ class Solution {
         while(!stack.isEmpty()){
             if(stack.peek() != popped[j]) return false;
             stack.pop();
-            j--;
+            j++;
         }
 
         return true;
