@@ -11,11 +11,10 @@ class Solution {
             else{
                 stack.pop();
 
-                if(stack.isEmpty()){
-                    stack.push(i);
-                }else{
-                    int length = i - stack.peek();
-                    maxL = Math.max(length, maxL);
+                if(stack.isEmpty()) stack.push(i);
+                else{
+                    int len = i - stack.peek();
+                    maxL = Math.max(len, maxL);
                 }
             }
         }
