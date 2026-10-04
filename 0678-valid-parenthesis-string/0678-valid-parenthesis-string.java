@@ -20,8 +20,9 @@ class Solution {
                 open.pop();
                 star.pop();
             }
+
             else return false;
-        }
+        } 
 
         return open.isEmpty();
     }
