@@ -12,8 +12,8 @@ class Solution {
         }
 
         while(k > 0){
-                stack.pop();
-                k--;
+            stack.pop();
+            k--;
         }
 
         StringBuilder str = new StringBuilder();
@@ -27,22 +27,17 @@ class Solution {
         StringBuilder result = new StringBuilder();
         boolean foundNonZero = false;
 
-        for (int i=0; i<str.length(); i++) {
+        for(int i=0; i<str.length(); i++){
             char ch = str.charAt(i);
 
-            if (ch != '0') {
-                foundNonZero = true;
-            }
+            if(ch != '0') foundNonZero = true;
 
-            if (foundNonZero) {
+            if(foundNonZero){
                 result.append(ch);
             }
         }
 
-        // If everything was zero, return "0"
-        if (result.length() == 0) {
-            return "0";
-        }
+        if(result.length() == 0) return "0";
 
         return result.toString();
     }
