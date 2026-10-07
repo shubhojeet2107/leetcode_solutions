@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0402-remove-k-digits](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0567-permutation-in-string) |
@@ -629,9 +630,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
