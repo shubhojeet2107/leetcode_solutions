@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [1096-brace-expansion-ii](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0881-boats-to-save-people) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1096-brace-expansion-ii](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
+| [1331-rank-transform-of-an-array](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2094-finding-3-digit-even-numbers) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1019-next-greater-node-in-linked-list](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1260-shift-2d-grid](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1260-shift-2d-grid) |
+| [1331-rank-transform-of-an-array](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1406-stone-game-iii](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
