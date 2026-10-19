@@ -624,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [2236-root-equals-sum-of-children](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -632,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [2236-root-equals-sum-of-children](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2236-root-equals-sum-of-children) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Combinatorics
 |  |
