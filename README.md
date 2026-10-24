@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2094-finding-3-digit-even-numbers](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2104-sum-of-subarray-ranges](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Bucket Sort
 |  |
 | ------- |
