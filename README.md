@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0769-max-chunks-to-make-sorted) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0228-summary-ranges) |
+| [0410-split-array-largest-sum](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0496-next-greater-element-i) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0877-stone-game) |
@@ -484,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1872-stone-game-viii) |
@@ -542,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0278-first-bad-version) |
+| [0410-split-array-largest-sum](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0633-sum-of-square-numbers) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
