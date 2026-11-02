@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0228-summary-ranges](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0228-summary-ranges) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0410-split-array-largest-sum](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0486-predict-the-winner) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
