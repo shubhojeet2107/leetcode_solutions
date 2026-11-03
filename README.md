@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0328-odd-even-linked-list) |
+| [0622-design-circular-queue](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0622-design-circular-queue](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0768-max-chunks-to-make-sorted-ii) |
@@ -502,12 +504,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Monotonic Stack
