@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [1670-design-front-middle-back-queue](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1670-design-front-middle-back-queue) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1670-design-front-middle-back-queue](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1670-design-front-middle-back-queue) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1872-stone-game-viii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0933-number-of-recent-calls) |
+| [1670-design-front-middle-back-queue](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1670-design-front-middle-back-queue) |
 ## Queue
 |  |
 | ------- |
@@ -518,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0950-reveal-cards-in-increasing-order) |
+| [1670-design-front-middle-back-queue](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1670-design-front-middle-back-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -703,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0933-number-of-recent-calls) |
+| [1670-design-front-middle-back-queue](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1670-design-front-middle-back-queue) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -715,4 +720,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1670-design-front-middle-back-queue) |
 <!---LeetCode Topics End-->
