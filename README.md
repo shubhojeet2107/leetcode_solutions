@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2233-maximum-product-after-k-increments](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2233-maximum-product-after-k-increments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2293-min-max-game](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2293-min-max-game) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2553-separate-the-digits-in-an-array](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2733-neither-minimum-nor-maximum) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1929-concatenation-of-array](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/1929-concatenation-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2293-min-max-game](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2293-min-max-game) |
 | [2390-removing-stars-from-a-string](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shubhojeet2107/leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
